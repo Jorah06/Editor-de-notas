@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700681488 source:c:\users\pichau\desktop\aeds\trabalho_aeds_i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
